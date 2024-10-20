@@ -4,3 +4,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+nav:
+  - B501: index.md
+  - Slides 1:
+    - languages.md
+  - Slides 6: traces_and_tm.md
