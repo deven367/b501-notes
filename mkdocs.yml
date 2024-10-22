@@ -8,4 +8,14 @@ nav:
   - B501: index.md
   - Slides 1:
     - languages.md
+  - Slides 2:
+    - sets-mapping.md
   - Slides 6: traces_and_tm.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
