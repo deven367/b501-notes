@@ -1,6 +1,8 @@
-# Welcome to MkDocs
+# CSCI B501
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site contains my notes for the B501 - Theory of Computation course.
+
+To add notes to the site, use can use the following commands.
 
 ## Commands
 
