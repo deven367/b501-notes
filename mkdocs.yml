@@ -11,6 +11,7 @@ nav:
   - Slides 2:
     - sets-mapping.md
   - Slides 6: traces_and_tm.md
+  - Questions: questions.md
 
 markdown_extensions:
   - admonition
