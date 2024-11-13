@@ -13,6 +13,7 @@ nav:
   - Slides 6: traces_and_tm.md
 
 markdown_extensions:
+  - admonition
   - pymdownx.arithmatex:
       generic: true
 
